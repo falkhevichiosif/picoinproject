@@ -30,10 +30,24 @@ Stellar
 
 ## Documentation
 
-* Regulation (RU)
-* Regulation (EN)
-* White Paper (EN)
-* Stellar Wallet Structure
+### Manifesto
+
+* [Manifesto RU](docs/manifesto_ru.md)
+* [Manifesto EN](docs/manifesto_en.md)
+
+### Regulation
+
+* [Regulation RU](docs/regulation_ru.md)
+* [Regulation EN](docs/regulation_en.md)
+
+### White Paper
+
+* [White Paper EN](docs/whitepaper_en.md)
+
+### Stellar Infrastructure
+
+* [Stellar Wallet Structure](docs/stellar-wallets.md)
+
 
 ---
 
