@@ -1,34 +1,67 @@
+# PICoin
+
 <p align="center">
   <img src="assets/logo.png" width="220">
 </p>
 
-# PICoin
-
-# PICoin
-
 Model of public access to capital.
+
+---
 
 ## About
 
-PICoin is a collective capital model based on tokenized ownership of productive assets.
+PICoin is a long-term investment ecosystem based on Stellar infrastructure and collective capital formation.
 
-The project focuses on long-term capital accumulation, reinvestment, and collective ownership.
+The project focuses on:
+
+* long-term capital accumulation;
+* reinvestment strategy;
+* collective participation;
+* transparent treasury structure;
+* sustainable ecosystem development.
+
+---
 
 ## Network
 
 Stellar
 
+---
+
+## Documentation
+
+* Regulation (RU)
+* Regulation (EN)
+* White Paper (EN)
+* Stellar Wallet Structure
+
+---
+
+## Goals
+
+* Collective participation in global investment assets
+* Open and transparent ecosystem structure
+* Long-term reinvestment model
+* Sustainable treasury development
+* Transparent Stellar infrastructure
+
+---
+
+## Infrastructure
+
+* Stellar Network
+* Stellar Issuer
+* Treasury Architecture
+* GitHub Pages
+
+---
+
 ## Status
 
 Early development stage.
 
-## Goals
+---
 
-- Collective ownership of productive assets
-- Open participation
-- Long-term reinvestment model
-- Transparent project structure
+## Official Website
 
-## Official Links
-
-Coming soon.
+https://falkhevichiosif.github.io/picoinproject/
