@@ -1,4 +1,8 @@
-![PICoin Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="220">
+</p>
+
+# PICoin
 
 # PICoin
 
