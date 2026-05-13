@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" width="220">
-</p>
+![PICoin Logo](assets/logo.png)
 
 # PICoin
 
