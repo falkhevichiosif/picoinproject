@@ -8,7 +8,7 @@ Total Supply: 750,000,000,000 PIC
 
 ---
 
-## Stellar Issuer
+## PICoin Issuer
 
 Status: verified / non-tradable
 
@@ -20,7 +20,7 @@ GCKUEZHJJCSODYFTF32BFMSD7C4IYY73FECHCL5B72SFHPMSDVG6S7D2
 
 ---
 
-## Stellar ICO
+## PICoin ICO
 
 Allocation:
 300,000,000,000 PIC
@@ -36,7 +36,7 @@ GD5WRB66PMR2DNEA3V33FCVT4REHDQ3WVUYSZAEOYCLY64VPUIINKZGX
 
 ---
 
-## Stellar Treasury
+## PICoin Treasury
 
 Allocation:
 300,000,000,000 PIC
@@ -52,7 +52,7 @@ GBIMMJ4IQITCLO63JO4XYZTPF5ETV4KQB6LIFVH5WE4PVJOUXEPRU32E
 
 ---
 
-## Stellar MyTeam
+## PICoin MyTeam
 
 Allocation:
 75,000,000,000 PIC
@@ -68,7 +68,7 @@ GBUNJWXGVVCHE2ZDOXIKPNXR45S64WO2TO3WOWYSYMBLW7TJCFJCMLHS
 
 ---
 
-## Stellar Volunteers
+## PICoin Volunteers
 
 Allocation:
 10,000,000,000 PIC
@@ -84,7 +84,7 @@ GDHSYB7RLQE6SEBDECUXNZHIYZSPTHTRIDIANTV32BHMABEMZIJD76TS
 
 ---
 
-## Stellar Org
+## PICoin Org
 
 Allocation:
 10,000,000,000 PIC
@@ -100,7 +100,7 @@ GAXX43G7FTIBLKTQ26BPA6OMN4DGQVG4XGHZBF3EGL2WK2JOOYQKM54J
 
 ---
 
-## Stellar Reserve
+## PICoin Reserve
 
 Allocation:
 55,000,000,000 PIC
