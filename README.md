@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="220">
+</p>
+
 # PICoin
 
 Model of public access to capital.
