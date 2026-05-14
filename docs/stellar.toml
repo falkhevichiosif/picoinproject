@@ -1,0 +1,58 @@
+# PICoin Stellar TOML
+
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="PICoin Project"
+ORG_URL="https://picoinproject.org"
+ORG_LOGO="https://picoinproject.org/assets/logo.png"
+ORG_DESCRIPTION="Model of public access to capital."
+ORG_EMAIL="info@picoinproject.org"
+
+[[CURRENCIES]]
+code="PIC"
+issuer="GCKUEZHJJCSODYFTF32BFMSD7C4IYY73FECHCL5B72SFHPMSDVG6S7D2"
+
+display_decimals=7
+
+name="PICoin"
+desc="Pension Investing Coin"
+
+image="https://picoinproject.org/assets/logo.png"
+
+fixed_number=750000000000
+max_number=750000000000
+
+is_asset_anchored=false
+status="live"
+anchor_asset_type="other"
+
+[[ACCOUNTS]]
+public_key="GD5WRB66PMR2DNEA3V33FCVT4REHDQ3WVUYSZAEOYCLY64VPUIINKZGX"
+desc="PICoin ICO wallet"
+
+[[ACCOUNTS]]
+public_key="GCKUEZHJJCSODYFTF32BFMSD7C4IYY73FECHCL5B72SFHPMSDVG6S7D2"
+desc="PICoin issuer wallet"
+
+[[ACCOUNTS]]
+public_key="GBUNJWXGVVCHE2ZDOXIKPNXR45S64WO2TO3WOWYSYMBLW7TJCFJCMLHS"
+desc="PICoin team wallet"
+
+[[ACCOUNTS]]
+public_key="GAXX43G7FTIBLKTQ26BPA6OMN4DGQVG4XGHZBF3EGL2WK2JOOYQKM54J"
+desc="PICoin organization wallet"
+
+[[ACCOUNTS]]
+public_key="GBIMMJ4IQITCLO63JO4XYZTPF5ETV4KQB6LIFVH5WE4PVJOUXEPRU32E"
+desc="PICoin treasury wallet"
+
+[[ACCOUNTS]]
+public_key="GDHSYB7RLQE6SEBDECUXNZHIYZSPTHTRIDIANTV32BHMABEMZIJD76TS"
+desc="PICoin volunteers wallet"
+
+[[ACCOUNTS]]
+public_key="GDPNCB4M5UXVWG33PZ4YYJGLF66RKB4OQNKQWWU7QBIP6W5VKEDDFRQ2"
+desc="PICoin reserve wallet"
