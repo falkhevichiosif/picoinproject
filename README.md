@@ -47,6 +47,7 @@ Stellar
 ### Stellar Infrastructure
 
 * [Stellar Wallet Structure](docs/stellar-wallets.md)
+* [stellar.toml](docs/stellar.toml)
 
 
 ---
