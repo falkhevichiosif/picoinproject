@@ -1,31 +1,39 @@
 PICoinproject White Paper
 
 1. Introduction
-    * PICoinproject is an innovative investment project that allows participants to indirectly participate in global assets through the PICoin crypto token.
-    * The main goal is to create an investment fund whose capitalization will grow through income generated from securities, indices, and commodities (gold, metals), ensuring token value growth and long-term ecosystem sustainability.
-    * Target audience: private investors, crypto enthusiasts, and people interested in long-term capital accumulation and inflation protection.
+
+* PICoinproject is an innovative investment project that allows participants to indirectly participate in global assets through the PICoin crypto token.
+* The main goal is to create an investment fund whose capitalization will grow through income generated from securities, indices, and commodities (gold, metals), ensuring token value growth and long-term ecosystem sustainability.
+* Target audience: private investors, crypto enthusiasts, and people interested in long-term capital accumulation and inflation protection.
 
 2. Problem
-    * Traditional pension systems and bank deposits provide low returns and do not protect against inflation.
-    * Capital markets and securities are often inaccessible to small investors.
-    * Existing cryptocurrency projects are either speculative, unstable, or do not offer participation in real assets.
+ 
+* Traditional pension systems and bank deposits provide low returns and do not protect against inflation.
+* Capital markets and securities are often inaccessible to small investors.
+* Existing cryptocurrency projects are either speculative, unstable, or do not offer participation in real assets.
 
 3. Solution
-    * PICoinproject provides an opportunity to participate in global investments through the PIC token, whose value is formed based on the Fund’s capitalization, reinvestment strategy, and market demand.
-    * Participants benefit from the growth of the Fund’s capitalization and may sell tokens on the market, profiting from changes in their market value.
-    * Transparency and automation through blockchain technology make participation more open and convenient.
 
-5. Economic Model
-    * Total token supply: 750,000,000,000 (750 billion) PIC.
-    * Initial token distribution is carried out through the Stellar infrastructure and includes the following categories:
-        * 300 billion PIC — Stellar ICO — formation of the Fund’s charter capital;
-        * 300 billion PIC — Stellar Treasury — gradual sale and Fund development;
-        * 75 billion PIC — Stellar MyTeam — team allocation and Project development;
-        * 10 billion PIC — Stellar Volunteers — support of volunteer activities;
-        * 10 billion PIC — Stellar Org — organizational and infrastructure needs;
-        * 55 billion PIC — Stellar Reserve — Project reserve and ecosystem sustainability.
-    * Token issuance is carried out through the Project’s official Stellar Issuer.
-    * Income and capitalization:
+* PICoinproject provides an opportunity to participate in global investments through the PIC token, whose value is formed based on the Fund’s capitalization, reinvestment strategy, and market demand.
+* Participants benefit from the growth of the Fund’s capitalization and may sell tokens on the market, profiting from changes in their market value.
+* Transparency and automation through blockchain technology make participation more open and convenient.
+
+4. Economic Model
+
+* Total token supply: 750,000,000,000 (750 billion) PIC.
+  
+* Initial token distribution is carried out through the Stellar infrastructure and includes the following categories:
+  
+   * 300 billion PIC — Stellar ICO — formation of the Fund’s charter capital;
+   * 300 billion PIC — Stellar Treasury — gradual sale and Fund development;
+   * 75 billion PIC — Stellar MyTeam — team allocation and Project development;
+   * 10 billion PIC — Stellar Volunteers — support of volunteer activities;
+   * 10 billion PIC — Stellar Org — organizational and infrastructure needs;
+   * 55 billion PIC — Stellar Reserve — Project reserve and ecosystem sustainability.
+
+* Token issuance is carried out through the Project’s official Stellar Issuer.
+
+* Income and capitalization:
         * the Project’s primary growth model is based on increasing the Fund’s capitalization and the value of the PIC token;
         * Fund income is primarily directed toward reinvestment and expansion of assets;
         * ownership of PIC tokens does not guarantee income or dividends.
