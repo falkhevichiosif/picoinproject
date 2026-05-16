@@ -14,7 +14,7 @@ This Regulation describes the operating principles of PICoinproject, the economi
 - The Fund’s income is primarily reinvested for the purpose of long-term capitalization growth.
 - Participation in the Project is voluntary and involves market, technological, and regulatory risks.
 
-The full text of the the Regulation is provided below and should be independently reviewed by participants.
+The full text of the Regulation is provided below and should be independently reviewed by participants.
 
 ---
 
@@ -29,31 +29,46 @@ PICoinproject (hereinafter referred to as the “Project”) is a decentralized 
 The purpose of the Project is:
 
 - formation and development of an investment fund through attracted capital;
-- acquisition and holding of a diversified portfolio of assets;
+- acquisition and holding of a diversified portfolio of assets (stock indices, securities, commodities, precious metals, etc.);
 - growth of the overall capitalization of the Fund and the associated PIC token;
 - providing participants with the opportunity for indirect co-ownership of Fund assets through digital instruments.
 
 ## 1.3. Long-Term Participation and Dividend Strategy
 
-After the complete sale of treasury tokens:
+After the complete sale of treasury tokens (approximately within 5–6 years):
 
-- participation conditions may be revised;
-- dividends may be introduced for legalized participants;
-- PIC coins involved in the process may be burned.
+- participation conditions may be revised with the possibility of introducing dividends for legalized participants;
+- all PIC coins involved in this process will be burned;
+- token holders who complete legalization will secure their rights within the Project.
 
 ## 1.4. Legal Nature of the Project
 
-1. The Project is not a bank, broker, or investment advisor.
+1. The Project is not a bank, credit institution, investment advisor, broker, or asset management company.
 2. The Project uses blockchain as its technological foundation.
-3. Participation is voluntary and at the participant’s own risk.
+3. Participation in the Project is voluntary and carried out at the participant’s own risk.
 
-## 1.5. Core Principles
+## 1.5. Core Principles of the Project
 
-- transparency;
+- transparency of digital asset accounting;
 - limited token issuance;
-- long-term reinvestment;
-- sustainable growth;
-- decentralization.
+- long-term accumulation and reinvestment strategy;
+- priority of sustainable growth over short-term speculative profit;
+- technological decentralization.
+
+## 1.6. Terms and Definitions
+
+- **Project** — PICoinproject as a whole, including its digital and organizational components;
+- **PIC Token (PICoin)** — the Project’s digital token representing participation in the ecosystem;
+- **Fund** — the totality of assets managed within the Project;
+- **Participant** — any person voluntarily interacting with the Project through token ownership.
+
+## 1.7. Scope of the Regulation
+
+This Regulation defines the fundamental provisions, principles, and structure of the Project and applies to all its sections unless otherwise specified.
+
+## 1.8. Project Language
+
+The official working language is Russian. Additional translations may be provided for informational purposes.
 
 ---
 
@@ -61,29 +76,42 @@ After the complete sale of treasury tokens:
 
 ## 2.1. Main Components
 
-### Investment Fund
+### 1. Investment Fund
 
 - formed through the sale of PIC tokens;
-- diversified asset structure;
-- reinvestment of profits.
+- assets are diversified (indices, securities, commodities, metals);
+- profits are reinvested to increase capitalization and the value of PIC tokens.
 
-### PIC Token
+### 2. PIC Token
 
-- sole token of the ecosystem;
+- the only digital token of the Project;
 - limited issuance;
-- participation instrument.
+- token ownership provides participation in the Project;
+- after the treasury token sale is completed, dividends may be available only to legalized participants.
 
-### Participants
+### 3. Project Participants
 
-- holders of PIC tokens;
-- voluntary participation;
-- legalization required for dividends.
+- persons holding PIC tokens;
+- voluntary participation at their own risk;
+- legalization is required to receive dividends.
 
-## 2.2. Treasury
+## 2.2. Project Treasury
 
-- stores treasury tokens;
-- gradual token sale;
-- supports Fund capitalization.
+- stores tokens intended for gradual sale over 5–6 years;
+- token sales are used to fill the Fund with assets;
+- after all treasury tokens are sold, participation conditions may be revised and dividends introduced for legalized participants.
+
+## 2.3. Governance and Transparency
+
+- the Project is decentralized;
+- all token operations are recorded on the blockchain;
+- participants have access to aggregated information about the Fund’s composition and asset movements.
+
+## 2.4. Component Interaction
+
+- PIC tokens → participation in the Project → potential dividends after legalization;
+- Fund assets → growth of PIC value → basis for long-term payouts;
+- participants → token ownership → legalization → dividends; others retain free transfer rights.
 
 ---
 
@@ -91,46 +119,76 @@ After the complete sale of treasury tokens:
 
 ## 3.1. General Characteristics
 
-- blockchain-based;
+The PIC token is the sole digital token of the ecosystem and an instrument for participation in the Project:
+
+- created and circulated through blockchain technology;
 - fixed issuance;
-- not a security;
-- ecosystem utility token.
+- not a security, debt obligation, or legal tender;
+- used exclusively within the ecosystem.
 
 ## 3.2. Purpose
 
-- participation in the Project;
-- Fund formation;
-- capitalization growth reflection.
+The PIC token serves as:
+
+- a means of participation in the Project;
+- an instrument for Fund formation;
+- a reflection of the Fund’s capitalization growth;
+- a base digital asset for the possible future implementation of dividend mechanisms for legalized participants.
+
+**Important:** Ownership of PIC tokens does not guarantee income and is not an investment recommendation.
 
 ## 3.3. Issuance and Circulation
 
-- total supply fixed;
-- Stellar infrastructure;
-- freely transferable.
+1. The total supply of PIC tokens is fixed at launch and amounts to 750,000,000,000 (750 billion) PIC.
+
+2. The initial token distribution is carried out through the Stellar infrastructure and includes the following categories:
+
+- 300 billion PIC — Stellar ICO — formation of the Fund’s charter capital;
+- 300 billion PIC — Stellar Treasury — gradual sale and Fund development;
+- 75 billion PIC — Stellar MyTeam — team allocation and Project development;
+- 10 billion PIC — Stellar Volunteers — support of volunteer activities;
+- 10 billion PIC — Stellar Org — organizational and infrastructure needs;
+- 55 billion PIC — Stellar Reserve — Project reserve and ecosystem sustainability.
+
+3. Token issuance is carried out through the Project’s official Stellar Issuer.
+
+4. PIC tokens may be freely transferred between participants, stored in cryptocurrency wallets, and traded on secondary markets.
+
+5. The current structure of Stellar wallets and technical information are published in the Project’s official documentation and stellar.toml.
 
 ## 3.4. Token Burning
 
-- limited burning procedures;
-- structural purposes only.
+Burning is limited and applied only according to approved procedures.
+
+### Purposes
+
+- structural changes;
+- transition to the next development stage;
+- support of the long-term strategy.
 
 ## 3.5. Connection with the Fund
 
-PIC value depends on:
+The value of PIC is formed through:
 
-- Fund assets;
-- reinvestment strategy;
-- market demand.
+- the aggregate value of Fund assets;
+- the reinvestment strategy;
+- market supply and demand.
+
+The token does not represent direct ownership of any specific Fund asset.
 
 ## 3.6. Dividends and Legalization
 
-- dividends only for legalized participants;
-- separate legalization regulation.
+After all treasury tokens are sold:
+
+- dividends are available only to legalized participants;
+- legalization procedures are defined in a separate regulation;
+- non-legalized participants may freely manage their tokens.
 
 ## 3.7. Limitations and Risks
 
-- market risks;
-- technological risks;
-- regulatory risks.
+- token ownership involves market, technological, and regulatory risks;
+- the Project does not guarantee value growth, liquidity, or dividends;
+- participants make decisions independently.
 
 ---
 
@@ -138,42 +196,53 @@ PIC value depends on:
 
 ## 4.1. General Provisions
 
-The Fund is intended for long-term capitalization growth.
+The Fund is a pool of assets intended for long-term capitalization growth.
+
+It is not a legal entity and functions as an economic and accounting structure.
 
 ## 4.2. Formation
 
-The Fund is formed through:
+Funds are formed through:
 
-- treasury token sales;
-- voluntary contributions;
-- Fund income.
+- sales of PIC treasury tokens;
+- voluntary participant contributions;
+- income generated from Fund assets.
 
 ## 4.3. Asset Composition
 
+A diversified portfolio including:
+
+- indices;
 - stocks;
 - bonds;
 - commodities;
 - metals;
-- indices.
+- other assets.
+
+The composition may change over time.
 
 ## 4.4. Investment Strategy
 
 - long-term holding;
-- diversification;
-- capital preservation.
+- diversification across asset classes and regions;
+- priority of capital preservation;
+- avoidance of short-term speculation.
 
 ## 4.5. Reinvestment
 
-Most profits are reinvested.
+- the majority of profits are reinvested;
+- part of the profits may cover Fund expenses.
 
-## 4.6. Transparency
+## 4.6. Accounting and Transparency
 
-- blockchain accounting;
-- public aggregated information.
+- asset structure is disclosed regularly;
+- operations are recorded on the blockchain;
+- aggregated information is available to participants.
 
-## 4.7. Risks
+## 4.7. Limitations and Risks
 
-No guarantees of profitability or preservation of capital.
+- market, economic, technological, and regulatory risks;
+- no guarantees regarding preservation of funds, profitability, or planned capitalization.
 
 ---
 
@@ -181,42 +250,48 @@ No guarantees of profitability or preservation of capital.
 
 ## 5.1. Purpose
 
-Storage and management of PIC tokens and incoming funds.
+The Treasury is a structural element intended for storing, managing, and distributing PIC tokens and incoming funds.
 
 ## 5.2. Structure
 
-- hot wallets;
-- cold wallets;
-- reserve wallets.
+- blockchain wallets (hot, cold, reserve);
+- the structure may be adjusted to improve security.
 
 ## 5.3. Token Sales
 
-- gradual distribution;
-- market stabilization.
+- carried out gradually over 5–6 years;
+- intended to form the Fund, maintain Project stability, and reduce market pressure;
+- the Administrator may adjust the pace and mechanisms of token sales.
 
 ## 5.4. Use of Funds
 
-- Fund expansion;
-- liquidity;
-- infrastructure;
-- operations.
+Funds are allocated to:
+
+- acquisition and expansion of Fund assets;
+- portfolio diversification;
+- maintenance of liquidity and sustainability;
+- operational, technical, and infrastructure expenses.
+
+Operational expenses may be covered both by incoming funds and Fund income.
 
 ## 5.5. Restrictions
 
-Treasury funds are not used for:
+Treasury funds are not used:
 
-- compensation;
-- lending;
-- high-risk operations.
+- for rewards, compensation, or payouts;
+- for lending to third parties;
+- for high-risk operations outside the Fund strategy.
 
 ## 5.6. Transparency
 
-- disclosure of aggregated data;
-- blockchain infrastructure.
+- publication of aggregated data;
+- disclosure of token sale information;
+- use of blockchain infrastructure.
 
 ## 5.7. Risks
 
-No guarantees regarding stable inflows or timelines.
+- market, technological, and regulatory risks;
+- no guarantee of stable inflows or token sale timelines.
 
 ---
 
@@ -224,109 +299,141 @@ No guarantees regarding stable inflows or timelines.
 
 ## 6.1. General Principles
 
-- fixed supply;
-- no additional issuance;
-- capitalization-based growth.
+- fixed token supply;
+- no issuance after launch;
+- value growth through Fund capitalization;
+- separation of PIC tokens and equity rights through legalization;
+- PIC is not a share or investment contract.
 
 ## 6.2. Total Supply
 
-150 trillion PIC.
+- total supply: 750,000,000,000 (750 billion) PIC;
+- additional issuance is impossible.
 
 ## 6.3. Distribution
 
-- 45 trillion — ICO;
-- 60 trillion — treasury;
-- 45 trillion — development.
+- 300 billion PIC — Stellar ICO — formation of the Fund’s charter capital;
+- 300 billion PIC — Stellar Treasury — gradual sale and Fund development;
+- 75 billion PIC — Stellar MyTeam — team allocation and Project development;
+- 10 billion PIC — Stellar Volunteers — support of volunteer activities;
+- 10 billion PIC — Stellar Org — organizational and infrastructure needs;
+- 55 billion PIC — Stellar Reserve — Project reserve and ecosystem sustainability.
 
 ## 6.4. Use of Raised Funds
 
-- Fund growth;
-- diversification;
-- infrastructure.
+- acquisition and expansion of Fund assets;
+- portfolio diversification;
+- maintenance of liquidity and sustainability;
+- operational, technical, and infrastructure expenses.
+
+Operational expenses may be covered both by inflows and Fund income.
 
 ## 6.5. Token Value Growth
 
-Based on Fund capitalization and demand.
+- through growth of Fund assets, reinvestment, and ecosystem demand;
+- price is determined by the market; a fixed starting price applies only during the ICO.
 
 ## 6.6. Burning
 
-Possible only under approved procedures.
+- only according to approved procedures during participant legalization;
+- irreversible removal from circulation;
+- does not affect the value of Fund assets.
 
 ## 6.7. Dividends
 
-No automatic dividend rights.
+- PIC ownership does not grant dividends;
+- Fund dividends are directed toward expenses or legalized participants;
+- profits are primarily reinvested into the Fund.
 
 ## 6.8. Limitation of Liability
 
-No guarantees of profitability or token growth.
+- the Administrator does not guarantee PIC growth, Fund profitability, or preservation of investments;
+- participation is voluntary and at the participant’s own risk.
 
 ---
 
-# Section 7. Participants and Legalization
+# Section 7. Participants, Statuses, and Legalization
 
 ## 7.1. General Provisions
 
-Participants are PIC token holders.
+- a Participant is a person holding PIC tokens and voluntarily interacting with the ecosystem;
+- registration or identity disclosure is not required before dividends.
 
 ## 7.2. Participant Categories
 
-### Regular Participants
+### 1. Regular Participants
 
-- hold tokens;
-- no dividends.
+- hold and manage tokens;
+- do not receive dividends.
 
-### Legalized Participants
+### 2. Legalized Participants
 
-- completed legalization;
-- may receive dividends.
+- have completed legalization;
+- are entitled to dividends.
 
 ## 7.3. Legalization
 
-Separate legalization procedures apply.
+- introduced after treasury token sales are completed;
+- required for participants claiming dividends;
+- procedures are defined in a separate regulation.
 
 ## 7.4. Rights
 
-- own tokens;
-- transfer tokens;
-- participate in the ecosystem.
+Participants may:
+
+- own and manage tokens;
+- receive Project information within the scope of this Regulation;
+- participate in the ecosystem;
+- legalized participants may receive dividends.
 
 ## 7.5. Restrictions
 
-Participants must comply with applicable laws.
+Participants must:
+
+- independently assess participation risks;
+- not use the Project unlawfully;
+- comply with the Regulation;
+- understand that the Project is not responsible for secondary market actions.
 
 ## 7.6. Exit
 
-Free transfer and sale of tokens.
+- through sale or transfer of tokens;
+- there are no restrictions on exit;
+- liquidity is not guaranteed.
 
 ## 7.7. Risks
 
-Participation involves financial and technological risks.
+- market, legal, and technological risks;
+- no guarantees of dividends, token preservation, or legalization approval.
 
 ---
 
-# Section 8. Governance and Administration
+# Section 8. Project Governance and Administration
 
 ## 8.1. Project Administrator
 
-Responsible for ecosystem development.
+- provides leadership, coordination, and ecosystem development.
 
 ## 8.2. Powers
 
 - defines strategy;
-- manages treasury;
-- approves procedures.
+- manages the Treasury;
+- makes decisions for sustainability and long-term development;
+- approves internal procedures and rules.
 
 ## 8.3. Restrictions
 
-Cannot change total PIC supply.
+- cannot change the total PIC supply;
+- does not guarantee profitability or token value growth;
+- must not violate the principles of the economic model.
 
-## 8.4. Amendments
+## 8.4. Amendments to the Regulation
 
-Possible with public notification.
+- amendments are possible with public notification of participants.
 
 ## 8.5. Liability
 
-No liability for external factors.
+- the Administrator is not liable for external legal, market, or technical factors.
 
 ---
 
@@ -334,20 +441,26 @@ No liability for external factors.
 
 ## 9.1. Status of the Regulation
 
-Informational and regulatory document only.
+This Regulation defines the fundamental operating principles of PICoinproject and serves an informational and regulatory purpose.
 
-## 9.2. Applicable Law
+The Regulation is not a public offer, contract, investment recommendation, or solicitation of investment.
 
-Operates without attachment to a specific jurisdiction.
+## 9.2. Applicable Law and Jurisdiction
+
+PICoinproject operates in a decentralized environment without attachment to any specific jurisdiction.
+
+The application of national laws may depend on the participant’s location and the legal requirements of the relevant country.
 
 ## 9.3. Amendments and Validity
 
-Updated versions are published officially.
+The current version of the Regulation is published through official Project sources.
+
+Continued participation in the Project after amendments are introduced constitutes acceptance of the updated Regulation.
 
 ## 9.4. Severability
 
-Invalid provisions do not affect the remainder.
+If any provision of this Regulation is found invalid or unenforceable, the remainder of the Regulation shall remain in force to the fullest extent possible.
 
 ## 9.5. Final Provision
 
-Participation constitutes acceptance of the Regulation.
+Participation in the Project constitutes conscious and voluntary acceptance of the principles, conditions, and risks described in this Regulation.
