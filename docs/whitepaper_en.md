@@ -104,9 +104,17 @@ Expansion of functionality, stablecoin release, oracle integration, and automati
 
 # 8. Team
 
-- Founder: Nenkin Shisan (年金資産) — strategic fund management, experience working with investment assets.
-- Technical team: blockchain, smart contract, and wallet development.
-- Marketing and PR: project promotion, community engagement, and partnerships.
+- Founder: Nenkin Shisan (年金資産) — strategic fund management and development of the project's investment model.
+
+- Project Architect / GitHub identity: falkhevichiosif  
+Technical architecture, documentation, and development of the project's web infrastructure.
+
+- Technical Direction:  
+development of blockchain infrastructure, wallets, and technical solutions for the ecosystem.
+
+- Marketing and PR:  
+this direction is currently under development.  
+The project welcomes volunteers and independent community members to participate in the development of the PICoinproject ecosystem.
 
 ---
 
