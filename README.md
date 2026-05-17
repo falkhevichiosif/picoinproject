@@ -40,14 +40,14 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 ### Manifesto
 
-- [Manifesto RU](docs/manifesto_ru.md)
 - [Manifesto EN](docs/manifesto_en.md)
+- [Manifesto RU](docs/manifesto_ru.md)
 
 ### Regulation
 
-- [Regulation RU](docs/regulation_ru.md)
 - [Regulation EN](docs/regulation_en.md)
-
+- [Regulation RU](docs/regulation_ru.md)
+- 
 ### White Paper
 
 - [White Paper EN](docs/whitepaper_en.md)
