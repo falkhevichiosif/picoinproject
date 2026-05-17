@@ -51,6 +51,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ### White Paper
 
 - [White Paper EN](docs/whitepaper_en.md)
+- [White Paper RU](docs/whitepaper_ru.md)
 
 ### Stellar Infrastructure
 
