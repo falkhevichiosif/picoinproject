@@ -53,9 +53,10 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 - [White Paper EN](docs/whitepaper_en.md)
 - [White Paper RU](docs/whitepaper_ru.md)
 
+### Roadmap
 
-Roadmap
-Roadmap v1.0
+- [Roadmap v1.0](ROADMAP.md)
+
 ### Stellar Infrastructure
 
 - [Stellar Wallet Structure](docs/stellar-wallets.md)
