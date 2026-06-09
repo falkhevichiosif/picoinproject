@@ -129,11 +129,20 @@ The project welcomes volunteers and independent community members to participate
 
 ---
 
-# 9. Legal Information
+## 9. Legal Information
 
-- The project operates in accordance with international standards for cryptocurrency projects.
-- Risk disclosure for participants.
-- AML/KYC policy where necessary for legal token trading.
+Picoinproject is an experimental digital asset project and should not be considered a financial institution, investment fund, bank, or regulated securities issuer unless otherwise required by applicable law.
+
+PIC tokens do not represent shares, securities, ownership rights, debt instruments, or guaranteed investment products.
+
+Nothing in this White Paper should be interpreted as financial, legal, tax, or investment advice.
+
+Participation in the project involves risks, including market volatility, regulatory changes, technological risks, and the possible loss of value of digital assets.
+
+Participants are responsible for complying with the laws and regulations applicable in their respective jurisdictions.
+
+AML/KYC procedures may be applied where required by applicable laws, regulations, or service providers.
+
 
 ---
 
