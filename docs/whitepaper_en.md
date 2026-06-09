@@ -4,7 +4,7 @@
 
 Picoinproject is an innovative investment project that allows participants to indirectly own global assets through the PICoin crypto token.
 
-The main goal is to create an investment fund whose capitalization will grow through income generated from securities, indices, and commodities (gold, metals), ensuring token value growth and real profitability for participants.
+The main goal is to create an investment fund whose capitalization will grow through income generated from securities, indices, and commodities (gold, metals), aiming to increase the long-term value of the ecosystem through the acquisition and management of productive assets.
 
 Target audience: private investors, crypto enthusiasts, and people interested in long-term capital accumulation and protection against inflation.
 
