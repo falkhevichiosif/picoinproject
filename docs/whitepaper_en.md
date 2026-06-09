@@ -68,12 +68,12 @@ The current structure of Stellar wallets and technical information are published
 
 ---
 
-# 5. Technical Architecture
+## 5. Technical Architecture
 
-- Proprietary blockchain system for token accounting and operational transparency.
-- Integration with decentralized storage systems (IPFS, Storj, Lighthouse) for secure data storage.
-- In the future: integration with oracles for obtaining up-to-date asset price data.
-- Web3 support for direct token trading through participant wallets.
+PIC tokens are issued and managed through the Stellar network, providing transparent and publicly verifiable transaction records.
+Project documentation and selected public data may be stored using decentralized storage technologies such as IPFS, Storj, and Lighthouse.
+Future development may include the integration of oracle services for obtaining external asset and market data.
+The technical architecture of the project is designed to support transparency, accessibility, and long-term ecosystem development.
 
 ---
 
