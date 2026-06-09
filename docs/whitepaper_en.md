@@ -1,5 +1,4 @@
 # PICoin White Paper
-
 Version 1.0
 ---
 ## 1. Introduction
