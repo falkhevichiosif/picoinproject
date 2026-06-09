@@ -81,12 +81,16 @@ The technical architecture of the project is designed to support transparency, a
 
 ---
 
-# 6. Participation Mechanism
+## 6. Participation Mechanism
 
-- Participants purchase PICoin tokens through project wallets or supported exchanges.
-- The token price reflects the capitalization of the fund: the higher the fund income, the higher the token value.
-- Participants may sell tokens on the market and profit from their price growth.
-- All operations are transparent, and information about the fund and tokens is available to participants in real time through the blockchain.
+Participants may acquire PIC tokens through project distribution channels, supported exchanges, or decentralized markets.
+
+The long-term value of the PIC token may be influenced by the growth of the fund, the value of its underlying assets, market conditions, and participant demand.
+
+Participants may hold, transfer, or trade PIC tokens. The market price of PIC is determined by supply and demand and is not guaranteed by the project.
+
+Transaction records are publicly verifiable through the Stellar network, supporting transparency and accessibility within the ecosystem.
+
 
 ---
 
