@@ -1,7 +1,7 @@
 # PICoin White Paper
 
 **Version 1.0**
----
+
 ## 1. Introduction
 
 Picoinproject is a digital asset project designed to provide participants with indirect exposure to a diversified portfolio of global assets through the PICoin token.
