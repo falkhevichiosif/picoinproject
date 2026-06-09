@@ -10,7 +10,7 @@ The target audience includes private investors, cryptocurrency enthusiasts, and 
 
 ---
 
-# 2. Problem
+## 2. Problem
 
 Traditional pension systems and bank deposits provide low profitability and do not protect against inflation.
 
@@ -33,9 +33,9 @@ Blockchain technology is used to promote transparency, verifiability, and access
 
 ---
 
-# 4. Economic Model
+## 4. Economic Model
 
-Total number of tokens: 750,000,000,000 (750 billion) PIC.
+**Total Supply:** 750,000,000,000 (750 billion) PIC.
 
 The initial distribution of tokens is carried out through the Stellar infrastructure and includes the following categories:
 
@@ -94,7 +94,7 @@ Transaction records are publicly verifiable through the Stellar network, support
 
 ---
 
-# 7. Roadmap
+## 7. Roadmap
 
 ## Stage 1
 Preparation of the White Paper and project website (completed).
@@ -113,7 +113,7 @@ Expansion of functionality, stablecoin release, oracle integration, and automati
 
 ---
 
-# 8. Team
+## 8. Team
 
 - Founder: Nenkin Shisan (年金資産) — strategic fund management and development of the project's investment model.
 
@@ -146,7 +146,7 @@ AML/KYC procedures may be applied where required by applicable laws, regulations
 
 ---
 
-# 10. Conclusion
+## 10. Conclusion
 
 Picoinproject gives ordinary people the opportunity to participate in global investment assets through the PICoin token.
 
