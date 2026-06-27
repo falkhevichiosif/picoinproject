@@ -92,7 +92,9 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 ## Status
 
-Active early-stage development.
+Active development.
+
+The project documentation and public infrastructure are available.
 
 ---
 
