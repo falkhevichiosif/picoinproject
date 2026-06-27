@@ -8,6 +8,11 @@
 Model of public access to capital.
 </h3>
 
+<p align="center">
+<b>Let your money work while you live your life.</b><br>
+People invest in the future. PICoin simply provides the tool.
+</p>
+
 ---
 
 ## About
@@ -15,6 +20,7 @@ Model of public access to capital.
 PICoin is a digital asset project focused on public access to capital and long-term value growth.
 
 The ecosystem is built on Stellar infrastructure and designed around collective participation, transparent treasury architecture, and sustainable long-term development.
+
 
 ---
 
