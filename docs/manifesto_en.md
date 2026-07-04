@@ -63,7 +63,7 @@ I do not hide the existence of the human factor, nor do I rely solely on the ter
 
 The PICoin Project is intentionally not a fully trustless system.
 
-At the same time, the Project is structured so that:
+At the same time, the PICoin Project is structured so that:
 
 * key rules are technically fixed,
 * token flows are separated,
