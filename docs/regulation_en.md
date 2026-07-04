@@ -114,7 +114,7 @@ The official working language is Russian. Additional translations may be provide
 
 ---
 
-# Section 3. PIC Token (PICoin)
+# Section 3. PICoin Token (PIC)
 
 ## 3.1. General Characteristics
 
