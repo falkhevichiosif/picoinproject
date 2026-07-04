@@ -21,7 +21,7 @@ The full text of the Regulation is provided below and should be independently re
 
 ## 1.1. Project Name
 
-PICoin Project (hereinafter referred to as the “Project”) is a decentralized investment-digital ecosystem based on blockchain technologies and digital tokens, intended for collective participation in the formation and development of an investment fund.
+The PICoin Project (hereinafter referred to as the “Project”) is a decentralized investment-digital ecosystem based on blockchain technologies and digital tokens, intended for collective participation in the formation and development of an investment fund.
 
 ## 1.2. Project Purpose
 
