@@ -45,7 +45,7 @@ A protocol does not assume responsibility.
 ## 4. The Fundamental Difference of the PIC Project
 
 PICoin is a blockchain-based digital asset issued on Stellar,
-but the PICoin Project is not a system without responsibility.
+while the PICoin Project is not a system without responsibility.
 
 Within the Project:
 
