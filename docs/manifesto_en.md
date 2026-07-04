@@ -128,7 +128,7 @@ This Project is for those who:
 
 Cryptocurrency can be a system without a word.
 
-PICoin is a system where a word exists,
+The PICoin Project is a system where a word exists,
 but it is reinforced by architecture.
 
 This manifesto is not protection from mistakes.
