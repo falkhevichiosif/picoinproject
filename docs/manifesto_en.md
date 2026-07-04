@@ -61,7 +61,7 @@ I do not hide the existence of the human factor, nor do I rely solely on the ter
 
 ## 5. Trust Not Only in a Person, but Also in the Architecture
 
-PICoin is not a fully trustless system — this is a conscious choice.
+The PICoin Project is intentionally not a fully trustless system.
 
 At the same time, the Project is structured so that:
 
