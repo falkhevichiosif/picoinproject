@@ -82,7 +82,7 @@ The Project relies on:
 * structure,
 * and the personal responsibility of the Project administrator.
 
-The primary factor of responsibility within PICoin is the Project administrator.
+The primary source of responsibility within the PICoin Project is the Project administrator.
 
 And I believe it is important to speak openly about this.
 
