@@ -1,4 +1,4 @@
-# PICoinproject Regulation
+# PICoin Project Regulation
 
 **Version:** 1.0  
 **Effective Date:** January 4, 2026
@@ -7,7 +7,7 @@
 
 # Summary of the Regulation
 
-This Regulation describes the operating principles of PICoinproject, the economic model of the PIC token, and the basic principles of Project governance.
+This Regulation describes the operating principles of PICoin Project, the economic model of the PIC token, and the basic principles of Project governance.
 
 - The PIC token is not a security and does not provide automatic dividend rights.
 - Funds raised within the framework of the Project are directed toward the formation and development of an investment fund.
@@ -22,7 +22,7 @@ The full text of the Regulation is provided below and should be independently re
 
 ## 1.1. Project Name
 
-PICoinproject (hereinafter referred to as the “Project”) is a decentralized investment-digital ecosystem based on blockchain technologies and digital tokens, intended for collective participation in the formation and development of an investment fund.
+PICoin Project (hereinafter referred to as the “Project”) is a decentralized investment-digital ecosystem based on blockchain technologies and digital tokens, intended for collective participation in the formation and development of an investment fund.
 
 ## 1.2. Project Purpose
 
@@ -57,7 +57,7 @@ After the complete sale of treasury tokens (approximately within 5–6 years):
 
 ## 1.6. Terms and Definitions
 
-- **Project** — PICoinproject as a whole, including its digital and organizational components;
+- **Project** — PICoin Project as a whole, including its digital and organizational components;
 - **PIC Token (PICoin)** — the Project’s digital token representing participation in the ecosystem;
 - **Fund** — the totality of assets managed within the Project;
 - **Participant** — any person voluntarily interacting with the Project through token ownership.
@@ -441,13 +441,13 @@ Participants must:
 
 ## 9.1. Status of the Regulation
 
-This Regulation defines the fundamental operating principles of PICoinproject and serves an informational and regulatory purpose.
+This Regulation defines the fundamental operating principles of PICoin Project and serves an informational and regulatory purpose.
 
 The Regulation is not a public offer, contract, investment recommendation, or solicitation of investment.
 
 ## 9.2. Applicable Law and Jurisdiction
 
-PICoinproject operates in a decentralized environment without attachment to any specific jurisdiction.
+PICoin Project operates in a decentralized environment without attachment to any specific jurisdiction.
 
 The application of national laws may depend on the participant’s location and the legal requirements of the relevant country.
 
