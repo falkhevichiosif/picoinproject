@@ -7,8 +7,7 @@
 
 # Summary of the Regulation
 
-This Regulation describes the operating principles of PICoin Project, the economic model of the PIC token, and the basic principles of Project governance.
-
+This Regulation describes the operating principles of the PICoin Project, the economic model of the PICoin token, and the basic principles of Project governance.
 - The PIC token is not a security and does not provide automatic dividend rights.
 - Funds raised within the framework of the Project are directed toward the formation and development of an investment fund.
 - The Fund’s income is primarily reinvested for the purpose of long-term capitalization growth.
