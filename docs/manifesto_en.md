@@ -42,7 +42,7 @@ A protocol does not assume responsibility.
 
 ---
 
-## 4. The Fundamental Difference of the PIC Project
+## 4. The Fundamental Difference of the PICoin Project
 
 PICoin is a blockchain-based digital asset issued on Stellar,
 while the PICoin Project is not a system without responsibility.
@@ -61,7 +61,7 @@ I do not hide the existence of the human factor, nor do I rely solely on the ter
 
 ## 5. Trust Not Only in a Person, but Also in the Architecture
 
-PIC is not a fully trustless system — this is a conscious choice.
+PICoin is not a fully trustless system — this is a conscious choice.
 
 At the same time, the Project is structured so that:
 
@@ -82,7 +82,7 @@ The Project relies on:
 * structure,
 * and the personal responsibility of the Project administrator.
 
-The primary factor of responsibility within PIC is the Project administrator.
+The primary factor of responsibility within PICoin is the Project administrator.
 
 And I believe it is important to speak openly about this.
 
@@ -110,7 +110,7 @@ It is an understanding of its source.
 
 ## 8. Who This Project Is Not For
 
-PIC is not suitable for those who:
+PICoin is not suitable for those who:
 
 * seek quick speculative gains,
 * shift responsibility to others,
@@ -128,7 +128,7 @@ This Project is for those who:
 
 Cryptocurrency can be a system without a word.
 
-PIC is a system where a word exists,
+PICoin is a system where a word exists,
 but it is reinforced by architecture.
 
 This manifesto is not protection from mistakes.
