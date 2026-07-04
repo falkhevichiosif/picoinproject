@@ -4,7 +4,7 @@
 
 This manifesto is neither advertising nor an investment promise.
 
-It is a description of what trust in cryptocurrencies in general — and in the PIC project specifically — is built upon.
+It is a description of what trust in cryptocurrencies in general — and in the PICoin Project specifically — is built upon.
 
 If, after reading this text, you are left with fewer illusions, then its purpose has been achieved.
 
