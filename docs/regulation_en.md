@@ -57,7 +57,7 @@ After the complete sale of treasury tokens (approximately within 5–6 years):
 ## 1.6. Terms and Definitions
 
 - **Project** — PICoin Project as a whole, including its digital and organizational components;
-- **PIC Token (PICoin)** — the Project’s digital token representing participation in the ecosystem;
+- **PICoin Token (PIC)** — the Project’s digital token representing participation in the ecosystem;
 - **Fund** — the totality of assets managed within the Project;
 - **Participant** — any person voluntarily interacting with the Project through token ownership.
 
