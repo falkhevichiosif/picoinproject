@@ -118,7 +118,7 @@ The official working language is Russian. Additional translations may be provide
 
 ## 3.1. General Characteristics
 
-The PIC token is the sole digital token of the ecosystem and an instrument for participation in the Project:
+The PICoin token is the sole digital token of the ecosystem and an instrument for participation in the Project.
 
 - created and circulated through blockchain technology;
 - fixed issuance;
