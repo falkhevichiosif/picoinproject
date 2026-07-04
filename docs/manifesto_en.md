@@ -110,7 +110,7 @@ It is an understanding of its source.
 
 ## 8. Who This Project Is Not For
 
-PICoin is not suitable for those who:
+Participation in the PICoin Project is not suitable for those who:
 
 * seek quick speculative gains,
 * shift responsibility to others,
