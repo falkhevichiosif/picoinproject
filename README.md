@@ -1,4 +1,4 @@
-# PICoin
+# PICoin Project
 
 <p align="center">
   <img src="assets/logo.png" width="220">
@@ -17,7 +17,7 @@ People invest in the future. PICoin simply provides the tool.
 
 ## About
 
-PICoin is a digital asset project focused on public access to capital and long-term value growth.
+The PICoin Project is a digital asset project focused on public access to capital and long-term value growth.
 
 The ecosystem is built on Stellar infrastructure and designed around collective participation, transparent treasury architecture, and sustainable long-term development.
 
@@ -37,8 +37,8 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ## Network
 
 - Stellar Network
-- Stellar Asset: PIC
-- Public Infrastructure
+- PIC token (Asset Code: PIC)
+- Public blockchain infrastructure
 
 ---
 
@@ -52,8 +52,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ### Regulation
 
 - [Regulation EN](docs/regulation_en.md)
-- [Regulation RU](docs/regulation_ru.md)
-- 
+- [Regulation RU](docs/regulation_ru.md) 
 ### White Paper
 
 - [White Paper EN](docs/whitepaper_en.md)
