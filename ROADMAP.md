@@ -84,9 +84,9 @@ Status: Planned
 
 ### Deliverables
 
-• Public distribution of the PIC token
-• Stellar DEX market
-• Public trading
+* Public distribution of the PIC token
+* Stellar DEX market
+* Public trading
 
 ---
 
