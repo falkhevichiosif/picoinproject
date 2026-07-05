@@ -135,4 +135,4 @@ All wallets listed in this document are part of the official PICoin Project Stel
 
 The PICoin Project may expand the wallet structure in the future for operational, technical, or ecosystem-related purposes.
 
-Major allocation categories and treasury structure are intended to remain publicly documented for transparency and long-term sustainability.
+Major allocation categories and the treasury structure are maintained as public documentation to support transparency and long-term sustainability.
