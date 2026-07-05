@@ -1,11 +1,10 @@
-# PICoin Roadmap v1.0
+# PICoin Project Roadmap v1.0
 
 *Last Updated: June 2026*
 
 ## Overview
 
-PICoin is an attempt to give ordinary people the opportunity to jointly own a portfolio of assets through a token that trades freely on the decentralized Stellar DEX market.
-
+The PICoin Project aims to give ordinary people the opportunity to gain exposure to a diversified portfolio of assets through the PICoin token, which trades freely on the decentralized Stellar DEX.
 This roadmap outlines the planned development stages of the project. Dates are indicative and may change depending on technical, legal, financial, and organizational circumstances.
 
 ---
@@ -16,7 +15,7 @@ Status: Completed
 
 ### Objectives
 
-* Develop the PICoin concept
+* Develop the PICoin Project concept
 * Design tokenomics
 * Establish project governance principles
 * Create the project repository
@@ -77,8 +76,8 @@ Status: Planned
 
 ### Objectives
 
-* Launch PIC token on Stellar
-* Enable trading on Stellar DEX
+* Launch public distribution of the PIC token
+* Establish public trading on Stellar DEX
 * Establish initial liquidity
 * Open market participation
 
@@ -130,6 +129,6 @@ Status: Planned
 
 ## Long-Term Vision
 
-PICoin seeks to create a transparent and accessible framework through which participants can gain exposure to a diversified portfolio of productive assets while maintaining the ability to freely enter and exit through decentralized markets.
+The PICoin Project seeks to create a transparent and accessible framework through which participants can gain exposure to a diversified portfolio of productive assets while maintaining the ability to freely enter and exit through decentralized markets.
 
-The project is intended to evolve gradually through community participation, transparent reporting, and responsible long-term development.
+The PICoin Project is intended to evolve gradually through community participation, transparent reporting, and responsible long-term development.
