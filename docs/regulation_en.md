@@ -63,7 +63,7 @@ After the complete sale of treasury tokens (approximately within 5–6 years):
 
 ## 1.7. Scope of the Regulation
 
-This Regulation defines the fundamental provisions, principles, and structure of the Project and applies to all its sections unless otherwise specified.
+This Regulation defines the fundamental operating principles of the PICoin Project and applies to all its sections unless otherwise specified.
 
 ## 1.8. Project Language
 
