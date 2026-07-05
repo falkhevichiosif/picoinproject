@@ -65,9 +65,13 @@ After the complete sale of treasury tokens (approximately within 5–6 years):
 
 This Regulation defines the fundamental operating principles of the PICoin Project and applies to all its sections unless otherwise specified.
 
-## 1.8. Project Language
+### 1.8. Project Language
 
-The official working language is Russian. Additional translations may be provided for informational purposes.
+The official language of the PICoin Project is English.
+
+Project documentation, the website, the White Paper, the GitHub Wiki, and official communications are maintained in English.
+
+Translations into other languages may be provided for convenience but are considered informational only.
 
 ---
 
