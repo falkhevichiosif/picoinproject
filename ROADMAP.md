@@ -5,7 +5,8 @@
 ## Overview
 
 The PICoin Project aims to give ordinary people the opportunity to gain exposure to a diversified portfolio of assets through the PICoin token, which trades freely on the decentralized Stellar DEX.
-This roadmap outlines the planned development stages of the project. Dates are indicative and may change depending on technical, legal, financial, and organizational circumstances.
+
+This roadmap outlines the planned development stages of the Project. Dates are indicative and may change depending on technical, legal, financial, and organizational circumstances.
 
 ---
 
