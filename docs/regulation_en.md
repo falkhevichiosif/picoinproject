@@ -127,7 +127,7 @@ The PICoin token is the sole digital token of the ecosystem and an instrument fo
 
 ## 3.2. Purpose
 
-The PIC token serves as:
+The PICoin token serves as:
 
 - a means of participation in the Project;
 - an instrument for Fund formation;
@@ -440,13 +440,13 @@ Participants must:
 
 ## 9.1. Status of the Regulation
 
-This Regulation defines the fundamental operating principles of PICoin Project and serves an informational and regulatory purpose.
+This Regulation defines the fundamental operating principles of the PICoin Project and serves an informational and regulatory purpose.
 
 The Regulation is not a public offer, contract, investment recommendation, or solicitation of investment.
 
 ## 9.2. Applicable Law and Jurisdiction
 
-PICoin Project operates in a decentralized environment without attachment to any specific jurisdiction.
+The PICoin Project operates in a decentralized environmentt without attachment to any specific jurisdiction.
 
 The application of national laws may depend on the participant’s location and the legal requirements of the relevant country.
 
