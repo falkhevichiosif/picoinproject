@@ -52,7 +52,8 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ### Regulation
 
 - [Regulation EN](docs/regulation_en.md)
-- [Regulation RU](docs/regulation_ru.md) 
+- [Regulation RU](docs/regulation_ru.md)
+  
 ### White Paper
 
 - [White Paper EN](docs/whitepaper_en.md)
@@ -82,10 +83,10 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ## Infrastructure
 
 - Stellar Network
-- Stellar Issuer
+- Stellar Issuer Account
 - Treasury Architecture
 - GitHub Pages
-- Stellar TOML Integration
+- Stellar TOML integration
 
 ---
 
@@ -93,10 +94,9 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 Active development.
 
-The project documentation and public infrastructure are available.
-
+Core documentation and the public technical infrastructure are available.
 ---
 
 ## Official Website
 
-https://picoinproject.org
+<https://picoinproject.org>
