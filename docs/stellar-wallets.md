@@ -1,8 +1,8 @@
-# PICoin Stellar Wallet Structure
+# PICoin Project Stellar Wallet Structure
 
 ## Overview
 
-The PICoin project uses a multi-wallet Stellar infrastructure for token issuance, treasury management, ecosystem development, and reserve storage.
+The PICoin Project uses a multi-wallet Stellar infrastructure for token issuance, treasury management, ecosystem development, and reserve storage.
 
 Total Supply: 750,000,000,000 PIC
 
@@ -10,7 +10,7 @@ Total Supply: 750,000,000,000 PIC
 
 ## Allocation Policy
 
-PICoin uses a transparent multi-wallet allocation model designed to support long-term ecosystem growth, treasury stability, infrastructure development, and decentralized expansion of the project.
+The PICoin Project uses a transparent multi-wallet allocation model designed to support long-term ecosystem growth, treasury stability, infrastructure development, and decentralized expansion.
 
 All major wallets are publicly disclosed to ensure transparency within the Stellar ecosystem.
 
@@ -131,8 +131,8 @@ GDPNCB4M5UXVWG33PZ4YYJGLF66RKB4OQNKQWWU7QBIP6W5VKEDDFRQ2
 
 ## Transparency
 
-All wallets listed in this document are part of the official PICoin Stellar infrastructure.
+All wallets listed in this document are part of the official PICoin Project Stellar infrastructure.
 
-The project may expand the wallet structure in the future for operational, technical, or ecosystem-related purposes.
+The PICoin Project may expand the wallet structure in the future for operational, technical, or ecosystem-related purposes.
 
 Major allocation categories and treasury structure are intended to remain publicly documented for transparency and long-term sustainability.
