@@ -50,6 +50,7 @@ The initial distribution of tokens is carried out through the Stellar infrastruc
 * 55 billion PIC — Stellar Reserve — project reserve and ecosystem sustainability.
 
 Token issuance is carried out through the official Stellar Issuer of the PICoin Project.
+
 ### Income and Capitalization
 
 * The primary growth model of the project is based on increasing the fund's capitalization and the long-term value of the PIC token.
