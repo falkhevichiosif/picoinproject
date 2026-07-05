@@ -60,6 +60,10 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 - [Roadmap v1.0](ROADMAP.md)
 
+- ### Project History
+
+- [CHANGELOG](CHANGELOG.md)
+
 ### Stellar Infrastructure
 
 - [Stellar Wallet Structure](docs/stellar-wallets.md)
