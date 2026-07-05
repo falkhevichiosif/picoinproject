@@ -115,15 +115,15 @@ Status: Planned
 
 ### Objectives
 
-* Launch NFT Founder Program
 * Expand portfolio diversification
-* Improve ecosystem services
+* Enhance ecosystem infrastructure
+* Improve transparency and reporting
 * Develop long-term governance mechanisms
 
 ### Deliverables
 
-* Founder NFTs
 * Expanded asset portfolio
+* Enhanced public infrastructure
 * Governance framework
 
 ---
