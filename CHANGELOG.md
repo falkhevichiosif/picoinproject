@@ -1,6 +1,6 @@
-# PICoin Project Release Notes
+# PICoin Project Changelog
 
-## Version 1.0
+## Release 1.0
 **Release Date:** July 2026
 
 ---
