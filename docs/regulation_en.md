@@ -446,7 +446,7 @@ The Regulation is not a public offer, contract, investment recommendation, or so
 
 ## 9.2. Applicable Law and Jurisdiction
 
-The PICoin Project operates in a decentralized environmentt without attachment to any specific jurisdiction.
+The PICoin Project operates in a decentralized environment without attachment to any specific jurisdiction.
 
 The application of national laws may depend on the participant’s location and the legal requirements of the relevant country.
 
