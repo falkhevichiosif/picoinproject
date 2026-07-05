@@ -28,7 +28,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 | File | Purpose |
 |------|---------|
-| `assets/logo.png` | Main PICoin project logo |
+| `assets/logo.png` | Main PICoin Project logo |
 | `assets/picoin_toml_512.png` | Stellar / Lobstr asset icon |
 | `assets/favicon.ico` | Website favicon |
 
@@ -95,6 +95,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 Active development.
 
 Core documentation and the public technical infrastructure are available.
+
 ---
 
 ## Official Website
