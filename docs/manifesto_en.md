@@ -4,133 +4,138 @@
 
 This manifesto is neither advertising nor an investment promise.
 
-It is a description of what trust in cryptocurrencies in general — and in the PICoin Project specifically — is built upon.
+It explains why the PICoin Project is built the way it is, what principles guide its development, and where responsibility begins.
 
-If, after reading this text, you are left with fewer illusions, then its purpose has been achieved.
-
----
-
-## 2. Cryptocurrency and the Absence of a Responsible Party
-
-Bitcoin and most decentralized systems do not have:
-
-* a governing person,
-* fiduciary responsibility,
-* obligations toward users.
-
-In such systems, there is no one to hold accountable.
-
-This is not a flaw — it is the architecture itself.
-
-Freedom in such systems exists together with the absence of guarantees.
+If, after reading this text, you better understand both the possibilities and the limitations of the Project, then its purpose has been achieved.
 
 ---
 
-## 3. The Illusion of “Trustless”
+## 2. Why the PICoin Project Exists
 
-The term trustless does not mean the absence of risk.
+The PICoin Project was created to provide ordinary people with an opportunity to participate in long-term capital accumulation through transparent blockchain infrastructure.
 
-It means:
+The Project combines digital assets, public documentation, and long-term investment principles into a single ecosystem.
 
-* the rules are fixed in code,
-* changes are possible only through consensus,
-* users bear the consequences of their own decisions.
-
-Code does not make promises.
-
-A protocol does not assume responsibility.
+Its goal is not to eliminate risk, but to make the system understandable, transparent, and accountable.
 
 ---
 
-## 4. The Fundamental Difference of the PICoin Project
+## 3. The Fundamental Difference of the PICoin Project
 
-PICoin is a blockchain-based digital asset issued on Stellar,
-while the PICoin Project is not a system without responsibility.
+Many blockchain systems are designed to minimize the role of people.
+
+The PICoin Project takes a different approach.
+
+It combines decentralized blockchain infrastructure with accountable project governance.
 
 Within the Project:
 
-* there is an administrator,
-* there is managed logic,
-* there are decisions made by a human being.
+* there is a Project administrator,
+* there are management decisions,
+* there is personal responsibility.
 
-Management decisions within the Project are made by the Project administrator.
+The existence of the human factor is not hidden.
 
-I do not hide the existence of the human factor, nor do I rely solely on the term “decentralization.”
+It is openly acknowledged as part of the Project's architecture.
 
 ---
 
-## 5. Trust Not Only in a Person, but Also in the Architecture
+## 4. Why "Trustless" Is Not Enough
 
-The PICoin Project is intentionally not a fully trustless system.
+The term *trustless* is often misunderstood.
 
-At the same time, the PICoin Project is structured so that:
+It does not eliminate risk.
 
-* key rules are technically fixed,
+It means that certain rules are enforced by code rather than by institutions.
+
+Code can execute predefined rules.
+
+It cannot assume responsibility for decisions, ethics, or long-term stewardship.
+
+Technology increases transparency.
+
+Responsibility remains a human obligation.
+
+---
+
+## 5. Trust Through Architecture
+
+The PICoin Project does not rely solely on trust in individuals.
+
+It relies on architecture.
+
+The Project is designed so that:
+
+* key principles are publicly documented,
 * token flows are separated,
-* the Project architecture includes technical restrictions and separation of asset flows.
+* technical restrictions reduce the possibility of arbitrary actions,
+* blockchain records remain publicly verifiable.
 
-The administrator manages processes,
-but the system is designed to minimize the possibility of arbitrary control over assets.
+Architecture cannot replace integrity.
+
+It can, however, reduce opportunities for abuse and make decisions more transparent.
 
 ---
 
-## 6. Responsibility and the Human Factor
+## 6. Responsibility
 
-The Project relies on:
+The Project combines:
 
-* code,
-* structure,
-* and the personal responsibility of the Project administrator.
+* transparent technology,
+* documented rules,
+* and personal responsibility.
 
-The primary source of responsibility within the PICoin Project is the Project administrator.
+The Project administrator is responsible for management decisions.
 
-And I believe it is important to speak openly about this.
+The blockchain is responsible for transparency.
+
+Both elements are necessary.
+
+Neither replaces the other.
 
 ---
 
 ## 7. Money and Responsibility
 
-I do not promise:
+The PICoin Project does not promise:
 
 * guaranteed returns,
-* token price growth,
-* absence of market losses.
+* guaranteed token appreciation,
+* absence of financial risk.
 
-Project funds:
+Market conditions cannot be controlled.
 
-* are used for their declared purposes,
-* are not held in unrestricted personal control,
-* are directed into the Fund structure.
+Project decisions can.
+
+Funds are intended to be used only for their declared purposes and in accordance with the published documentation.
 
 Trust is not the absence of risk.
 
-It is an understanding of its source.
+Trust is understanding how responsibility is distributed.
 
 ---
 
-## 8. Who This Project Is Not For
+## 8. Who This Project Is For
 
-Participation in the PICoin Project is not suitable for those who:
+The PICoin Project is intended for people who:
 
-* seek quick speculative gains,
-* shift responsibility to others,
-* expect guarantees.
-
-This Project is for those who:
-
-* understand risk,
 * think long term,
-* prefer honesty over promises.
+* understand investment risk,
+* value transparency,
+* prefer documented rules over marketing promises.
+
+It is not intended for those seeking guaranteed profits or short-term speculation.
 
 ---
 
 ## 9. Conclusion
 
-Cryptocurrency can be a system without a word.
+Blockchain technology can improve transparency.
 
-The PICoin Project is a system where a word exists,
-but it is reinforced by architecture.
+It cannot replace responsibility.
 
-This manifesto is not protection from mistakes.
+The PICoin Project combines both.
 
-It is protection from illusions.
+This manifesto does not ask for trust.
+
+It explains how the Project is designed to earn it.
