@@ -17,7 +17,7 @@ Status: Completed
 ### Objectives
 
 * Develop the PICoin Project concept
-* Design tokenomics
+* Develop the tokenomics
 * Establish project governance principles
 * Create the project repository
 * Launch the official website
@@ -27,7 +27,7 @@ Status: Completed
 
 * Website
 * GitHub repository
-* Project Regulations
+* Project Regulation
 * Initial documentation
 
 ---
@@ -84,9 +84,9 @@ Status: Planned
 
 ### Deliverables
 
-* PIC token
-* Stellar DEX market
-* Public trading
+• Public distribution of the PIC token
+• Stellar DEX market
+• Public trading
 
 ---
 
@@ -132,4 +132,4 @@ Status: Planned
 
 The PICoin Project seeks to create a transparent and accessible framework through which participants can gain exposure to a diversified portfolio of productive assets while maintaining the ability to freely enter and exit through decentralized markets.
 
-The PICoin Project is intended to evolve gradually through community participation, transparent reporting, and responsible long-term development.
+The PICoin Project is intended to evolve gradually through transparent reporting, community participation, and responsible long-term development.
