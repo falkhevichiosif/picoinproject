@@ -1,30 +1,50 @@
 # PICoin Stellar TOML
 
-VERSION="2.0.0"
+ВЕРСИЯ="2.0.0"
 
-[DOCUMENTATION]
+[ДОКУМЕНТАЦИЯ]
 ORG_NAME="PICoin Project"
 ORG_URL="https://picoinproject.org"
 ORG_LOGO="https://picoinproject.org/assets/logo.png"
-ORG_DESCRIPTION="Model of public access to capital."
+ORG_DESCRIPTION="Модель доступа общественности к капиталу."
 ORG_EMAIL="info@picoinproject.org"
 
-[[CURRENCIES]]
-code="PIC"
+[[ВАЛЮТЫ]]
+код="PIC"
 issuer="GCKUEZHJJCSODYFTF32BFMSD7C4IYY73FECHCL5B72SFHPMSDVG6S7D2"
 
 display_decimals=7
 
 name="PICoin"
-desc="Pension Investing Coin"
+desc="Монета для пенсионных инвестиций"
 
 image="https://picoinproject.org/assets/picoin_toml_512.png"
 
 fixed_number=750000000000
 max_number=750000000000
 
-status="live"
+статус="в прямом эфире"
 
-[[ACCOUNTS]]
+[[АККАУНТЫ]]
 public_key="GD5WRB66PMR2DNEA3V33FCVT4REHDQ3WVUYSZAEOYCLY64VPUIINKZGX"
-desc="PICoin ICO wallet"
+desc="Кошелек ICO PICoin"
+
+[[АККАУНТЫ]]
+public_key="GBIMMJ4IQITCLO63JO4XYZTPF5ETV4KQB6LIFVH5WE4PVJOUXEPRU32E"
+desc="Кошелек казначейства PICoin"
+
+[[АККАУНТЫ]]
+public_key="GBUNJWXGVVCHE2ZDOXIKPNXR45S64WO2TO3WOWYSYMBLW7TJCFJCMLHS"
+desc="Кошелек PICoin MyTeam"
+
+[[АККАУНТЫ]]
+public_key="GDHSYB7RLQE6SEBDECUXNZHIYZSPTHTRIDIANTV32BHMABEMZIJD76TS"
+desc="Кошелек волонтеров PICoin"
+
+[[АККАУНТЫ]]
+public_key="GAXX43G7FTIBLKTQ26BPA6OMN4DGQVG4XGHZBF3EGL2WK2JOOYQKM54J"
+desc="Кошелек организации PICoin"
+
+[[АККАУНТЫ]]
+public_key="GDPNCB4M5UXVWG33PZ4YYJGLF66RKB4OQNKQWWU7QBIP6W5VKEDDFRQ2"
+desc="Кошелек PICoin Reserve"
