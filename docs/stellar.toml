@@ -1,50 +1,33 @@
-# PICoin Stellar TOML
+# PICoin Stellar TOML Configuration
 
-ВЕРСИЯ="2.0.0"
+VERSION="2.0.0"
 
-[ДОКУМЕНТАЦИЯ]
+# Global arrays are declared only at the very beginning of the file!
+ACCOUNTS=[
+  "GD5WRB66PMR2DNEA3V33FCVT4REHDQ3WVUYSZAEOYCLY64VPUIINKZGX",
+  "GBIMMJ4IQITCLO63JO4XYZTPF5ETV4KQB6LIFVH5WE4PVJOUXEPRU32E",
+  "GBUNJWXGVVCHE2ZDOXIKPNXR45S64WO2TO3WOWYSYMBLW7TJCFJCMLHS",
+  "GDHSYB7RLQE6SEBDECUXNZHIYZSPTHTRIDIANTV32BHMABEMZIJD76TS",
+  "GAXX43G7FTIBLKTQ26BPA6OMN4DGQVG4XGHZBF3EGL2WK2JOOYQKM54J",
+  "GDPNCB4M5UXVWG33PZ4YYJGLF66RKB4OQNKQWWU7QBIP6W5VKEDDFRQ2"
+]
+
+[DOCUMENTATION]
 ORG_NAME="PICoin Project"
 ORG_URL="https://picoinproject.org"
 ORG_LOGO="https://picoinproject.org/assets/picoin_toml_512.png"
-ORG_DESCRIPTION="Модель доступа общественности к капиталу."
+ORG_DESCRIPTION="Model of public access to capital."
 ORG_EMAIL="info@picoinproject.org"
 
-[[ВАЛЮТЫ]]
-код="PIC"
+[[CURRENCIES]]
+code="PIC"
 issuer="GCKUEZHJJCSODYFTF32BFMSD7C4IYY73FECHCL5B72SFHPMSDVG6S7D2"
-
+status="live"
 display_decimals=7
 
 name="PICoin"
-desc="Монета для пенсионных инвестиций"
-
+desc="Pension Investing Coin"
 image="https://picoinproject.org/assets/picoin_toml_512.png"
 
 fixed_number=750000000000
 max_number=750000000000
-
-статус="в прямом эфире"
-
-[[АККАУНТЫ]]
-public_key="GD5WRB66PMR2DNEA3V33FCVT4REHDQ3WVUYSZAEOYCLY64VPUIINKZGX"
-desc="Кошелек ICO PICoin"
-
-[[АККАУНТЫ]]
-public_key="GBIMMJ4IQITCLO63JO4XYZTPF5ETV4KQB6LIFVH5WE4PVJOUXEPRU32E"
-desc="Кошелек казначейства PICoin"
-
-[[АККАУНТЫ]]
-public_key="GBUNJWXGVVCHE2ZDOXIKPNXR45S64WO2TO3WOWYSYMBLW7TJCFJCMLHS"
-desc="Кошелек PICoin MyTeam"
-
-[[АККАУНТЫ]]
-public_key="GDHSYB7RLQE6SEBDECUXNZHIYZSPTHTRIDIANTV32BHMABEMZIJD76TS"
-desc="Кошелек волонтеров PICoin"
-
-[[АККАУНТЫ]]
-public_key="GAXX43G7FTIBLKTQ26BPA6OMN4DGQVG4XGHZBF3EGL2WK2JOOYQKM54J"
-desc="Кошелек организации PICoin"
-
-[[АККАУНТЫ]]
-public_key="GDPNCB4M5UXVWG33PZ4YYJGLF66RKB4OQNKQWWU7QBIP6W5VKEDDFRQ2"
-desc="Кошелек PICoin Reserve"
