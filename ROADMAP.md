@@ -10,6 +10,18 @@ This roadmap outlines the planned development stages of the Project. Dates are i
 
 ---
 
+## PICoin Project — Growth Tree
+
+<p align="center">
+  <img src="docs/images/picoin-growth-tree.png" width="850">
+</p>
+
+<p align="center">
+  <b>Think in decades, not days.</b>
+</p>
+
+---
+
 ## Phase 1 — Foundation
 
 Status: Completed
