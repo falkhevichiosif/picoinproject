@@ -30,9 +30,9 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 </p>
 
 <p align="center">
-  A visual representation of our long-term development strategy.
-  <br>
-  <b>Think in decades, not days.</b>
+A visual representation of our long-term development strategy.
+<br>
+<b>Think in decades, not days.</b>
 </p>
 
 ---
@@ -64,7 +64,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 ### Regulation
 
 - [Regulation](docs/regulation.md)
-  
+
 ### White Paper
 
 - [White Paper](docs/whitepaper.md)
@@ -73,7 +73,7 @@ The ecosystem is built on Stellar infrastructure and designed around collective 
 
 - [Roadmap v1.0](ROADMAP.md)
 
-- ### Project History
+### Project History
 
 - [CHANGELOG](CHANGELOG.md)
 
