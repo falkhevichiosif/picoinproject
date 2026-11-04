@@ -21,6 +21,19 @@ The PICoin Project is a digital asset project focused on public access to capita
 
 The ecosystem is built on Stellar infrastructure and designed around collective participation, transparent treasury architecture, and sustainable long-term development.
 
+---
+
+## PICoin Project — Growth Tree
+
+<p align="center">
+  <img src="docs/images/picoin-growth-tree.png" width="850">
+</p>
+
+<p align="center">
+  A visual representation of our long-term development strategy.
+  <br>
+  <b>Think in decades, not days.</b>
+</p>
 
 ---
 
